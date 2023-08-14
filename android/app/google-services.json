@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032889941146",
+    "project_id": "mortar-vpn",
+    "storage_bucket": "mortar-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032889941146:android:ab7d57e427c344fd0ab323",
+        "android_client_info": {
+          "package_name": "com.mortarltd.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032889941146-hn5qtqjff79rnknhbd2bldmte0ucc9ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmtIsaqlbQNLO9gSE8gseYhLMiVHVTjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032889941146-hn5qtqjff79rnknhbd2bldmte0ucc9ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
